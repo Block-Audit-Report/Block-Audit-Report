@@ -27,26 +27,26 @@
 </p>
 <p float="left">
   <a href="#" target="_blank" >
-    <img src="assets/eth.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/eth.png"  height="75" />
   </a>
    <a href="#" target="_blank" >
-    <img src="assets/lock.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/lock.png"  height="75" />
   </a>
 </p>
 <p float="left">
   <a href="#" target="_blank" >
-    <img src="assets/ganache-logo.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/ganache-logo.png"  height="75" />
   </a>
    <a href="#" target="_blank" >
-    <img src="assets/openSea.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/openSea.png"  height="75" />
   </a>
 </p>
 <p float="left">
   <a href="#" target="_blank" >
-    <img src="assets/card.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/card.webp"  height="75" />
   </a>
    <a href="#" target="_blank" >
-    <img src="assets/solidity.png"  height="75" />
+    <img src="https://github.com/Block-Audit-Report/assets/solidity.png"  height="75" />
   </a>
 </p>
 
